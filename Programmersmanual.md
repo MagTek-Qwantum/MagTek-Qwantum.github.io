@@ -2,4 +2,4 @@
 
 ## Multi-Interface Card Reader Platform Programmer’s Manual
 
-    [(images/DynaFlexII.png)]
+    ![](images/DynaFlexII.png)
